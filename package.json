@@ -1,0 +1,12 @@
+{
+  "name": "my-machine",
+  "version": "1.0.0",
+  "description": "Node JS project that shows a user's machine details",
+  "main": "index.js",
+  "repository": "https://github.com/dsereboo/my-machine.git",
+  "author": "dsereboo",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
